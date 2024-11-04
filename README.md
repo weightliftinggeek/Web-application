@@ -1,4 +1,5 @@
 # Overview  
+This project was part of the subject "Cloud-based web applications" of the Master of Data Science degree from La Trobe University.
 This project aims to create a simple web application that consists of frontend and backend (API and DB) to keep and maintain all of your contacts. The architecture of the application is shown below.
 ![image](https://github.com/user-attachments/assets/eb039d67-f530-4926-9ebb-3818ce51d478)
 The application has the following functionalities:  
